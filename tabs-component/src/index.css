@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-slate-50 text-slate-800 min-h-screen font-sans antialiased flex items-center justify-center p-6;
+}
