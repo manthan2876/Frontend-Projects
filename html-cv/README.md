@@ -15,3 +15,26 @@ https://roadmap.sh/projects/single-page-cv
 1. **Navigate to the project directory:**
 ```bash
    cd html-cv
+
+```
+
+2. **Install dependencies:**
+
+```bash
+   npm install
+
+```
+
+3. **Start the local development server:**
+
+```bash
+   npm run dev
+
+```
+
+4. **Build for production:**
+
+```bash
+   npm run build
+
+```
